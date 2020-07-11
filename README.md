@@ -1,2 +1,2 @@
 # leetcode
-leetcode may challenge soltions in c++ 
+leetcode may challenge solutions in c++ 
