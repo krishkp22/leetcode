@@ -8,7 +8,7 @@ int main()
 	cout << "\n Enter the size of an array ";
 	cin >> n;
 
-	cout << "\n Enter the values in sorted order (asc or desc) \n";
+	cout << "\n Enter the values in sorted order \n";
 
 	for (i = 0; i < n; i++)
 	{
