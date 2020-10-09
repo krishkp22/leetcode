@@ -15,7 +15,7 @@ int main()
 		cin >> arr[i];
 	}
 
-	/*Initialize beg and end value. */
+	/*Initialize left and right value of an array. */
 
 	left = 0;
 	right = n - 1;
@@ -23,7 +23,7 @@ int main()
 	cout << "\n Enter a value to be searched in an array ";
 	cin >> num;
 
-	/*Run loop, while beg is less than end. */
+	/*Run loop, while left is less than end. */
 
 	while (left <= right)
 	{
